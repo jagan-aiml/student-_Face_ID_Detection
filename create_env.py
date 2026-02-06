@@ -11,9 +11,9 @@ SIAMESE_THRESHOLD=0.4
 # Email Configuration
 SMTP_SERVER=smtp.gmail.com
 SMTP_PORT=587
-EMAIL_USER=jaganja.378@gmail.com
-EMAIL_PASSWORD=cnzbrnccsnwmnwdr
-FROM_EMAIL=jaganja.378@gmail.com
+EMAIL_USER=
+EMAIL_PASSWORD=
+FROM_EMAIL=
 
 # Database
 DATABASE_URL=sqlite:///./attendance.db
