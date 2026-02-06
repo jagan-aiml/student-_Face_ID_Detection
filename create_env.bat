@@ -10,9 +10,9 @@ echo .env file created successfully!
 echo ================================
 echo.
 echo The email settings have been copied:
-echo - SMTP_USERNAME=jaganja.378@gmail.com  
+echo - SMTP_USERNAME=
 echo - SMTP_PASSWORD is set
-echo - FROM_EMAIL=jaganja.378@gmail.com
+echo - FROM_EMAIL=
 echo.
 echo Your parent email notifications should now work!
 echo.
